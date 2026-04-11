@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h1>⚖️ Legal AI Munshi - Case Intake</h1>
+      <h1>⚖️ Legal AI Assistant - Case Intake</h1>
 
       <h2>Client Details</h2>
       <input placeholder="Client Name" /><br /><br />
